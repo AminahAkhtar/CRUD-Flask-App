@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  color: white;
+  padding: 20px;
+}
+#main-div{
+  border: 5px solid white;
+  margin-bottom: 1rem;
+  padding-top: 1rem;
+}
+.row{
+  display: flex;
+}
+.btn-danger{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
